@@ -352,8 +352,8 @@ github.com/coinbase/rosetta-sdk-go/types v1.0.0 h1:jpVIwLcPoOeCR6o1tU+Xv7r5bMONN
 github.com/coinbase/rosetta-sdk-go/types v1.0.0/go.mod h1:eq7W2TMRH22GTW0N0beDnN931DW0/WOI1R2sdHNHG4c=
 github.com/cometbft/cometbft v0.38.18 h1:1ZHYMdu0S75YxFM13LlPXnOwiIpUW5z9TKMQtTIALpw=
 github.com/cometbft/cometbft v0.38.18/go.mod h1:PlOQgf3jQorep+g6oVnJgtP65TJvBJoLiXjGaMdNxBE=
-github.com/cometbft/cometbft-db v0.14.2 h1:APopDJJLECOnVncCN4VCBzi3bciQOtZClzEU+F21kTE=
-github.com/cometbft/cometbft-db v0.14.2/go.mod h1:kduimHRBou+T4y2nvPVf5OpRkLh2PZna0BFz4Ztr/co=
+github.com/cometbft/cometbft-db v0.14.3 h1:foX2zuH/L6feyUSLDWg9YRLvt9w8iWVo883wGcyhdQk=
+github.com/cometbft/cometbft-db v0.14.3/go.mod h1:5CcpGc+0fgZh8ecKa38MwDHfmRAGiRgQg6bGNs1HA/g=
 github.com/containerd/continuity v0.3.0 h1:nisirsYROK15TAMVukJOUyGJjz4BNQJBVsNvAXZJ/eg=
 github.com/containerd/continuity v0.3.0/go.mod h1:wJEAIwKOm/pBZuBd0JmeTvnLquTB1Ag8espWhkykbPM=
 github.com/coreos/go-semver v0.2.0/go.mod h1:nnelYz7RCh+5ahJtPPxZlU+153eP4D4r3EedlOD2RNk=
